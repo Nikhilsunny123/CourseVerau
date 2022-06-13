@@ -68,4 +68,4 @@ See License in &lt;license.pdf&gt; © [Devwares](https://github.com/Devwares)
 
 We truly appreciate us all and everyone who has contributed to this project, as we continue to use and imporove this project.
 
-A massive thank you to everyone!
+A massive thank you to everyone!# CourseBeta
